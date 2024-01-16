@@ -1,0 +1,9 @@
+site_name: Sherri Barksdale
+site_url:
+
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Portfolio: portfolio.md
+  - Resume: resume.md
+
